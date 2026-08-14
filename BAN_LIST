@@ -1,11 +1,50 @@
 return {
 
 local isShadowBanned = {
-
+7016721040 -- @segodnya121 (Inappropriate behavior)
+1797341677 -- @superigrok200o3000 (Former Co-Owner)
+1029970889 -- @supersahar_2 (Inappropriate behavior)
+4615521910 -- @mishas123h42 (Inappropriate behavior / Deliberate downgrading of the project's rating without constructive criticism.)
+3679371707 -- @zoleehehh (Inappropriate behavior)
 }
 
-local isHardBanned = {
 
+local isHardBanned = {
+4435424646 -- @MiniHappyMill (BZD Studio Staff)
+788619646 -- @DenMasterHH (BZD Studio Staff)
+4962221774 -- @kflfrfi14 (BZD Studio Staff)
+3738790485 -- @boss_vertoletus (BZD Studio Staff)
+6018966720 -- @vbnnnnnnnnnn_10 (BZD Studio Staff)
+1123849121 -- @Pim5_11 (BZD Studio Staff)
+5283755999 -- @Bzdun1488 (BZD Studio Staff)
+4172380836 -- @yaitsevoymuzhik (BZD Studio Staff)
+7656380589 -- @iamsalient (BZD Studio Staff)
+1085334635 -- @SovietWitcher (BZD Studio Staff)
+1796241399 -- @bicklou (BZD Studio Staff)
+5055919103 -- @BzdistDristAccount (BZD Studio Staff)
+2245080222 -- @RadioRushh (BZD Studio Staff)
+2013829775 -- @Egor_Plekhanov (BZD Studio Staff)
+8196232107 -- @roblox_user_8196232107 (BZD Studio Staff)
+3354651028 -- @dolongisor (BZD Studio Staff)
+10131106136 -- @BRATAN_510109 (BZD Studio Staff)
+3336053975 -- @manda_zxc (BZD Studio Staff)
+1549968587 -- @Igor_Plekhanov (BZD Studio Staff и его мамаша сосёт хуёво)
+80642369 -- @lagsic (BZD Studio Staff)
+10782459358 -- @JHGKGIGYUGFG (Exploiting.)
+10797322133 -- @lifehackcc (Exploiting.)
+652596983 -- @00000_32333 (Exploiting.)
+3328885674 -- @Jfkfgsf (Exploiting.)
+1280775916 -- @Vovanchik228m (Exploiting.)
+8785949967 -- @Legitexers (Exploiting.)
+4740868088 -- @ofisate_robloxcom (Inappropriate behavior)
+5028231716 -- @YourEternalLeader (Inappropriate behavior)
+4322565279 -- @Yessierboi_wastaken (Inappropriate behavior)
+7431777681 -- @blackoutdetective12 (Inappropriate behavior)
+3990591926 -- @cosmiclolggs (Inappropriate behavior)
+290942 -- @no20 (Exploiting.)
+1371280028 -- @minepro7282 (Inappropriate behavior)
+10591311571 -- @Acostavaientino (Inappropriate behavior)
+5732048695 -- @militaryguy_38 (You have been permanently banned from our project. We do not welcome those who have in any way participated in the harassment of our project.)
 }
 
 }
