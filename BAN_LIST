@@ -40,7 +40,6 @@ local isHardBanned = {
     290942, -- @no20 (Exploiting.)
     1371280028, -- @minepro7282 (Inappropriate behavior)
     10591311571, -- @Acostavaientino (Inappropriate behavior)
-    5732048695, -- @militaryguy_38 (You have been permanently banned from our project. We do not welcome those who have in any way participated in the harassment of our project.)
 }
 
 return {
