@@ -39,8 +39,11 @@ local isHardBanned = {
     3990591926, -- @cosmiclolggs (Inappropriate behavior)
     290942, -- @no20 (Exploiting.)
     1371280028, -- @minepro7282 (Inappropriate behavior)
+    1723060569, -- @N_Moxx (Inappropriate behavior)
     10591311571, -- @Acostavaientino (Inappropriate behavior)
     7832717331, -- @SkyetheFurry1 (Your account has been permanently banned for the following reason: "Use of exploits". If you believe this is a mistake, you can file an appeal on our Discord server.)
+    10153859220, -- @TjV0d / @SkyetheFurry1 ALT / HiddenAdmin (Your account has been permanently banned for the following reason: "Use of exploits". If you believe this is a mistake, you can file an appeal on our Discord server.)
+    
 }
 
 return {
